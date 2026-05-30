@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsave",
+        "uuid": 4589312,
+        "checksum": "7g510k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
